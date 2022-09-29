@@ -15,7 +15,7 @@ Provisioning
 
 ### The cloud is ability to access resources over the internet in a pay as you go service.
 
-### DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services fast and efficient.
+### DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services fast and efficiently.
 
 ### <what you created with that tool / concept>
 
