@@ -33,11 +33,11 @@ Provisioning
 
 ### Continuous delivery is a software development practice where code changes are automatically built, tested, and prepared for a release to production.
 
-### <what you created with that tool / concept>
+#### We implemented a Jenkins pipeline.
 
-### CI/CD creates a fast and effective process of getting your product to market before your competition as well as releasing new features and bug fixes to keep your current customers happy.
+#### CI/CD creates a fast and effective process of getting your product to market before your competition as well as releasing new features and bug fixes to keep your current customers happy.
 
-### Smaller code changes, fault isolations, faster mean time to resolution, more test reliability, faster release rate, smaller backlog, customer satifaction, increase team transparency and accountability, and reduce costs.
+#### Smaller code changes, fault isolations, faster mean time to resolution, more test reliability, faster release rate, smaller backlog, customer satifaction, increase team transparency and accountability, and reduce costs.
 
 # 3. What is Jenkins?
 
@@ -45,11 +45,11 @@ Provisioning
 
 ### A continuous integration and continuous deployment (CI/CD) pipeline is a series of steps that must be performed in order to deliver a new version of software.
 
-### <continuous integration>
+#### <continuous integration>
 
-### <what you created with that tool / concept>
+#### I automated testing when code was pushed to github using webhooks.
 
-### <Detail of the benefit to using the this tool / concept>
+#### Jenkins allows you to automate the process and there is less chance of human error by eliminating manual steps. This allows developers to focus more on continuously improving and innovating a product.
 
 # 4. What is Provisioning?
 
