@@ -53,11 +53,11 @@ Provisioning
 
 # 4. What is Provisioning?
 
-### Provisioning is the process of configuring and deploying system resources needed to run an application.
+### Provisioning is the process of setting up IT infrastructure.
 
-### <what you created with that tool / concept>
+### I created bash scripts using linux. 
 
-### <Detail of the benefit to using the this tool / concept>
+### The benefits of provisioning allows developers to quickly and automatically spin up an array of workloads on demand.
   
   
 # Work in Progress
