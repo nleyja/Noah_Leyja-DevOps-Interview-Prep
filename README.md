@@ -87,11 +87,13 @@ Packer and Terraform
 
 ###  Packer is an open source tool for creating identical machine images for multiple platforms from a single source configuration. (AMI's)
   
+### Packer images allow you to launch completely provisioned and configured machines in seconds, rather than several minutes or hours.
+  
 ###  Terraform is an open source infrastructure as code (IaC) software tool that allows DevOps engineers to programmatically provision the physical resources an application requires to run.
 
 ### i created an AWS infrustucture deploting an instance into a VPC all automated with teraform
 
-### Terraform can manage infrastructure on multiple cloud platforms. 
+### Terraform can manage infrastructure on multiple cloud platforms. Automation (scripts) and reusabilty of the code.
 
 
 
