@@ -59,7 +59,7 @@ Packer and Terraform
 
 ### Provisioning is the process of setting up IT infrastructure.
 
-### I created bash scripts using linux. 
+### I created bash scripts using linux for docker, vagrantfiles and packer. 
 
 ### The benefits of provisioning allows developers to quickly and automatically spin up an array of workloads on demand.
   
@@ -67,7 +67,7 @@ Packer and Terraform
 
 ### Networking refers to interconnected computing devices that can exchange data and share resources with each other.
 
-### I created a VPC with terraform with a internet gateway with routing table and subnets. 
+### I created a VPC with terraform with a internet gateway with routing tables and subnets in AWS.
 
 ### The benefits of of networking is File sharing - you can easily share data between different users, or access it remotely.
   
@@ -89,11 +89,13 @@ Packer and Terraform
   
 ### Packer images allow you to launch completely provisioned and configured machines in seconds, rather than several minutes or hours.
   
+### Created AMI's
+  
 ###  Terraform is an open source infrastructure as code (IaC) software tool that allows DevOps engineers to programmatically provision the physical resources an application requires to run.
 
-### i created an AWS infrustucture deploting an instance into a VPC all automated with teraform
+### Deployed a 2 tire aplication on AWS.i created an AWS infrustucture deploting an instance into a VPC all automated with teraform. Deployed a 2 tire aplication on AWS
 
-### Terraform can manage infrastructure on multiple cloud platforms. Automation (scripts) and reusabilty of the code.
+### Terraform can manage infrastructure on multiple cloud platforms. Automation (scripts) and reusabilty of the code. Rather than click buttons on the console we can quickly deploy it with terraform.
 
 
 
